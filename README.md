@@ -24,7 +24,8 @@ By using the coords attribute we can select a particular area we needed ,Then us
 </map>
 ```
 # Output:
-![output](my_location.png)
+![my_location](https://github.com/JOHNSUBIK/Ex-04-webTech_imagemap/assets/150279319/c25e3c2d-ddd2-45af-942b-c9207862e57d)
+
 
 # Result:
 
